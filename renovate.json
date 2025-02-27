@@ -1,0 +1,5 @@
+{
+  "automergeStrategy": "squash",
+  "automerge": true,
+  "automergePr": "pr"
+}
